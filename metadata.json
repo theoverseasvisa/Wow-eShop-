@@ -1,0 +1,6 @@
+{
+  "name": "Wow eShop",
+  "description": "Premium 3D luxury e-commerce application for an Indian shopping brand, featuring a glassmorphic dark theme and interactive shopping modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
